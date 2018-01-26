@@ -1,8 +1,12 @@
 """calculadora mezcla aceite/nafta 2T
 """
+from tkinter import *
 import os
 #limpia pantalla
 os.system('cls||clear')
+
+window = tk()
+
 
 #titulo
 title = '**** calculadora mezcla aceite/nafta 2T ****'
