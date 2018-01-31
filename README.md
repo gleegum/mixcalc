@@ -1,6 +1,7 @@
 # MixCalc
 
-Oil/Gas mixture calculator for 2 stroke engines made with Python.
+Oil/Gas mixture calculator for 2 stroke engines.
+Made with Python.
 
 ## Usage
 
