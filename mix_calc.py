@@ -11,7 +11,7 @@ print(str.upper(title))
 #ingreso de datos
 ratio = int(input('Ingrese la relación de mezcla, ej: 50 para 50:1 \n'))
 print(str(ratio)+str(':1'))
-gas = float(input("ingrese la cantidad de nafta a preparar \n"))
+gas = float(input("ingrese la cantidad de nafta a preparar (en litros)\n"))
 
 #lineas de impresión
 to = 'Para preparar'
